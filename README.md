@@ -1,2 +1,2 @@
 # tinacos
-*/15 * * * * python3 /home/pi/bin/presion.py > /dev/null 2>&1
+*/1 * * * * /home/pi/bin/tinacos/tinacos.sh
